@@ -1,0 +1,31 @@
+html{
+    background-color: lightblue;
+}
+h1{
+    display: inline;
+    border-radius: 3px;
+    color: red;
+
+}
+option{
+    color: lightgreen;
+}
+input{
+    border-collapse: separate;
+background-color: rosybrown;
+}
+select{
+    background-color: sandybrown;
+
+}
+option{
+    color: darkred;
+}
+#submit{
+    text-decoration-color: darkred;
+    background-color: darkviolet;
+}
+.checkbox{
+    background-color: deepskyblue;
+    color: dodgerblue;
+}
